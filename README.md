@@ -53,6 +53,7 @@ ThinkBridge-API/
   "message": "Data fetched"
 }
 ```
+<img width="1919" height="1017" alt="Screenshot 2026-04-24 140023" src="https://github.com/user-attachments/assets/e21b27aa-5109-4af7-a8d5-b20fd4a98ab7" />
 
 ## Prerequisites
 
